@@ -1,7 +1,7 @@
 # Stock Market Analytics Zoomcamp
 
 <p align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5H6Jc-HJg9B7irveRASJCAS4BTnJcvM2QX2ykIGZ0UNgCPQ/viewform"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
+  <a href="https://pythoninvest.com/course"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
 </p>
 
 
@@ -10,7 +10,7 @@
 - Register in [DataTalks.Club's Slack](https://datatalks.club/slack.html)
 - Join the [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F) channel
 - Join the [course Telegram channel with announcements](https://t.me/stockanalyticszoomcamp)
-- The videos are published on [PythonInvest's YouTube channel](https://www.youtube.com/@pythoninvest2480) 
+- The videos are published on [PythonInvest's YouTube channel](https://www.youtube.com/@pythoninvest) 
 - [Frequently asked technical questions](https://docs.google.com/document/d/1ABQD6ns4vZHKu2dHGqqJ85LCOF7LzxqfvWBVXb_-M9E/edit?usp=sharing)
 
 
@@ -27,12 +27,52 @@
 
 ## Taking the course
 
+### 2025 Cohort
+
+* **Start**: 19 May 2025 (Monday) at 6:30pm GMT +1 (Dublin time)
+* **LiveStream**: all modules will be streamed on the PythonInvest YouTube Channel: [2025 Stock Market Analytics Zoomcamp Playlist](https://www.youtube.com/playlist?list=PLSWnIAnueyu8KBcwhE48ASp20nZMg2qtt)
+* **Registration Form**: [LINK](https://forms.gle/qP19FoBSnzmZsJYt6)
+* [Cohort folder](cohorts/2025/) with homeworks and deadlines
+
+* **Pre-Launch stream with course overview and Q&A (streamed on April, 14th 2025)**:
+  * [![[Pre-Launch and Q&A] Stock Market Analytics Zoomcamp 2025](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1N1jIwa1uag)](https://www.youtube.com/watch?v=1N1jIwa1uag)
+
+
+* **Workshops to help you prepare for the course**
+  * [![Economics and Automation Workshop: Building a Data Pipeline for Economic Insights ](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMeDUe75WQaQ)](https://www.youtube.com/watch?v=MeDUe75WQaQ)
+
+
+  * [![Predicting Financial Time-Series](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPxAh08Pcmj4)](https://www.youtube.com/watch?v=PxAh08Pcmj4)
+
+
+* **Supplementary pre-read for the project selection:**
+   * Any recent financial news or analytics:
+     * Weekly news coverage on PythonInvest's Financial News Feed: https://pythoninvest.com/
+     * Analytical long-reads on PythonInvest's Blog: https://pythoninvest.com/blog 
+     * Simply Wall St Market Insights: https://simplywall.st/markets/insights
+     * Investing on CNBC: https://www.cnbc.com/investing/ 
+     * Unhedged podcast and articles: https://unhedged.ft.com/
+     * Yahoo Finance: https://finance.yahoo.com/
+   
+   * Books:
+     * [The Trading Game: A Confession](https://www.amazon.co.uk/Trading-Game-Confession-Gary-Stevenson/dp/0241636604)
+     * [Unknown Market Wizards (latest edition)](https://www.amazon.co.uk/dp/B0BW1163DW)
+     * [The Man Who Solved the Market](https://www.amazon.co.uk/dp/073521798X)
+     * [The Tao of Trading: How to Build Abundant Wealth in Any Market Condition](https://www.amazon.co.uk/dp/B08BNGKKM5)
+     * [The Unlucky Investor's Guide to Options Trading](https://www.amazon.co.uk/Unlucky-Investor%E2%80%B2s-Guide-Options-Trading/dp/1119882656)
+
+---
 ### 2024 Cohort
 
 * **Start**: 15 April 2024 (Monday) at 17:00 GMT
-* **Registration link**: https://docs.google.com/forms/d/e/1FAIpQLSc5H6Jc-HJg9B7irveRASJCAS4BTnJcvM2QX2ykIGZ0UNgCPQ/viewform
+* **Registration Form** (not accepting responses anymore): [LINK](https://docs.google.com/forms/d/e/1FAIpQLSc5H6Jc-HJg9B7irveRASJCAS4BTnJcvM2QX2ykIGZ0UNgCPQ/viewform)
 * [Cohort folder](cohorts/2024/) with homeworks and deadlines
-* Launch stream with course overview: to be added after March 25th
+
+* **Pre-Launch stream with course overview and Q&A (streamed on 25th March 2024)**:
+  * [![YouTube video](https://markdown-videos-api.jorgenkh.no/youtube/oswTLnjkRUg)](https://www.youtube.com/watch?v=oswTLnjkRUg&list=PLSWnIAnueyu8auG0v3VXfUkVJpLoeCJYF&index=1)
+  * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV8yZ6edMcJGvVuPWJxfict7pDI1YG8Ddbef7wRfnSEz_Q-59LUr60fcvYChF5dg-sSKzGkYQUPyif/pub?start=false&loop=false&delayms=3000&slide=id.g1d0e930b61f_0_81)
+---
+
 
 
 ### Self-paced mode
@@ -48,7 +88,7 @@ can take the course at your own pace
 
 ## (Detailed) Syllabus
 
-### [Module 1: Introduction and Data Sources](01-data-sources/)
+### [Module 1: Introduction and Data Sources](01-intro-and-data-sources/)
 
 * Understanding Data-Driven Decisions and Initiating Data Extraction
   * Explore the philosophy behind making decisions based on data.
@@ -62,7 +102,7 @@ can take the course at your own pace
   * When it becomes necessary to consider payment options in the API selection process.
 * Homework
 
-[More details](01-data-sources/)
+[More details](01-intro-and-data-sources/)
 
 
 ### [Module 2: Working with the Data (in Pandas)](02-dataframe-analysis/)
@@ -94,6 +134,7 @@ can take the course at your own pace
 * Regression techniques for understanding data relationships.
 * Binary classification to determine growth direction.
 * [Optional] Example of neural networks in analytical modelling.
+* Homework
 
 [More details](03-modeling/)
 
@@ -112,8 +153,8 @@ Moving Beyond Prediction into the realm of Trading Strategy and Simulation:
   * Vertical stocks covering and pairs trading.
   * Exploration of "Penny" stocks and dividend strategies.
   * [Maybe - Advanced] Basic options strategy.
-
 * Simulate the financial results based on predictions and the chosen strategy.
+* Homework
 
 [More details](04-trading-strategy-and-simulation/)
 
@@ -126,18 +167,18 @@ Streamlining Processes from Prediction to Action:
 * Explore automation techniques such as scheduling cron jobs for a series of .py files and consider data workflow solutions like Apache Airflow.
 * Learn to generate predictions and execute trades systematically.
 * [Maybe - Advanced] Implement automated email notifications containing predictions, trade details, and updates on profit/loss for the designated period.
+* Homework
 
 [More details](05-deployment-and-automation/)
 
 
-### [Project](project)
+### [Project](projects)
 
 Putting everything we learned to practice
 
 * Week 1 and 2: working on your project
 * Week 3: reviewing your peers
 
-More details: will be shared in the coming weeks
 
 
 ## Asking for help in Slack
@@ -146,6 +187,16 @@ The best way to get support is to use [DataTalks.Club's Slack](https://datatalks
 
 To make discussions in Slack more organized:
 
-* Follow [these recommendations](asking-questions.md) when asking for help
 * Read the [DataTalks.Club community guidelines](https://datatalks.club/slack/guidelines.html)
+
+* Follow these recommendations when asking for help in Slack:
+  * Before posting a question, try to Google it and Check Course's FAQ ([Frequently asked technical questions](https://docs.google.com/document/d/1ABQD6ns4vZHKu2dHGqqJ85LCOF7LzxqfvWBVXb_-M9E/edit?usp=sharing)) first
+  * DO NOT use screenshots, especially don’t take pictures from a phone.
+  * DO NOT tag instructors, it may discourage others from helping you.
+  * Copy and paste errors; if it’s long, just post it in a reply to your thread. 
+  * Use ``` for formatting your code.
+  * Use the same thread for the conversation (that means replying to your own thread). 
+  * DO NOT create multiple posts to discuss the issue.
+  * You may create a new post if the issue reemerges down the road. Be sure to describe what has changed in the environment.
+  * Provide additional information in the same thread of the steps you have taken for resolution.
 
